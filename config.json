@@ -3,5 +3,6 @@
   "url-backup": "stratum+tcps://eu.flockpool.com:5555",
   "user": "RPiZTnnoW6VxCbpHauTcu5h2x6j5eHRaTC.Worker_Sc",
   "pass": "123456",
-  "algo": "gr"
+  "algo": "gr",
+  "no-tune": true
 }
